@@ -17,8 +17,6 @@ Coursera Deep Learning Specialization
 ├── C3 - Structuring Machine Learning Projects
 ├── C4 - Convolutional Neural Networks
 ├── C5 - Sequence Models
-│
-├── LICENSE
 ```
 
 
